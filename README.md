@@ -1,3 +1,8 @@
+IMPORTANTE
+- Para correr el codigo en local hay que ir a frontend/app/shared/constants/urls.ts y eliminar la parte "environment.production? '' : "
+
+
+
 ## Pasos de desarrollo
 1. backend
     1. creacion de la base de datos en mongo atlas
